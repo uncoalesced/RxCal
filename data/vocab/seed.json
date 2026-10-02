@@ -1,0 +1,40 @@
+{
+  "source": "Hand-curated seed of common Indian brand names. UNVERIFIED: validate each pair against a pharmacology reference before Phase 2. Generics are a small NLEM 2022 subset; full list is Jammy's backlog item 1.",
+  "brands": [
+    { "brand": "Crocin", "generic": "Paracetamol" },
+    { "brand": "Dolo 650", "generic": "Paracetamol" },
+    { "brand": "Calpol", "generic": "Paracetamol" },
+    { "brand": "Augmentin", "generic": "Amoxicillin + Clavulanic acid" },
+    { "brand": "Mox", "generic": "Amoxicillin" },
+    { "brand": "Azithral", "generic": "Azithromycin" },
+    { "brand": "Azee", "generic": "Azithromycin" },
+    { "brand": "Pan 40", "generic": "Pantoprazole" },
+    { "brand": "Pantocid", "generic": "Pantoprazole" },
+    { "brand": "Omez", "generic": "Omeprazole" },
+    { "brand": "Allegra", "generic": "Fexofenadine" },
+    { "brand": "Cetzine", "generic": "Cetirizine" },
+    { "brand": "Montair", "generic": "Montelukast" },
+    { "brand": "Glycomet", "generic": "Metformin" },
+    { "brand": "Telma", "generic": "Telmisartan" },
+    { "brand": "Amlong", "generic": "Amlodipine" },
+    { "brand": "Stamlo", "generic": "Amlodipine" },
+    { "brand": "Ecosprin", "generic": "Aspirin" },
+    { "brand": "Atorva", "generic": "Atorvastatin" },
+    { "brand": "Thyronorm", "generic": "Levothyroxine" },
+    { "brand": "Eltroxin", "generic": "Levothyroxine" },
+    { "brand": "Brufen", "generic": "Ibuprofen" },
+    { "brand": "Combiflam", "generic": "Ibuprofen + Paracetamol" },
+    { "brand": "Zerodol", "generic": "Aceclofenac" },
+    { "brand": "Ciplox", "generic": "Ciprofloxacin" },
+    { "brand": "Taxim-O", "generic": "Cefixime" },
+    { "brand": "Metrogyl", "generic": "Metronidazole" },
+    { "brand": "Flagyl", "generic": "Metronidazole" },
+    { "brand": "Emeset", "generic": "Ondansetron" },
+    { "brand": "Ondem", "generic": "Ondansetron" }
+  ],
+  "generics": [
+    "Paracetamol", "Amoxicillin", "Azithromycin", "Pantoprazole", "Omeprazole", "Cetirizine",
+    "Montelukast", "Metformin", "Telmisartan", "Amlodipine", "Aspirin", "Atorvastatin",
+    "Levothyroxine", "Ibuprofen", "Ciprofloxacin", "Cefixime", "Metronidazole", "Ondansetron"
+  ]
+}
