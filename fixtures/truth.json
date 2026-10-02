@@ -1,0 +1,223 @@
+[
+  {
+    "file": "rx-01.png",
+    "date": "2026-10-02",
+    "meds": [
+      {
+        "name": "Crocin",
+        "slots": [
+          1,
+          0,
+          1
+        ],
+        "durationDays": 5,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-02.png",
+    "date": "2026-09-14",
+    "meds": [
+      {
+        "name": "Pan 40",
+        "slots": [
+          1,
+          0,
+          0
+        ],
+        "durationDays": 7,
+        "note": "Before food"
+      },
+      {
+        "name": "Dolo 650",
+        "slots": [
+          1,
+          1,
+          1
+        ],
+        "durationDays": 3,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-03.png",
+    "date": "2026-10-05",
+    "meds": [
+      {
+        "name": "Azithral",
+        "slots": [
+          1,
+          0,
+          0
+        ],
+        "durationDays": 3,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "file": "rx-04.png",
+    "date": "2026-08-21",
+    "meds": [
+      {
+        "name": "Montair",
+        "slots": [
+          0,
+          0,
+          1
+        ],
+        "durationDays": 30,
+        "note": ""
+      },
+      {
+        "name": "Allegra",
+        "slots": [
+          1,
+          0,
+          0
+        ],
+        "durationDays": 10,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "file": "rx-05.png",
+    "date": "2026-11-01",
+    "meds": [
+      {
+        "name": "Augmentin",
+        "slots": [
+          1,
+          0,
+          1
+        ],
+        "durationDays": 5,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-06.png",
+    "date": "2026-10-12",
+    "meds": [
+      {
+        "name": "Brufen",
+        "slots": [
+          0.5,
+          0,
+          0.5
+        ],
+        "durationDays": 3,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-07.png",
+    "date": "2026-12-03",
+    "meds": [
+      {
+        "name": "Glycomet",
+        "slots": [
+          1,
+          0,
+          1
+        ],
+        "durationDays": 60,
+        "note": "With food"
+      },
+      {
+        "name": "Telma",
+        "slots": [
+          1,
+          0,
+          0
+        ],
+        "durationDays": 60,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "file": "rx-08.png",
+    "date": "2026-09-09",
+    "meds": [
+      {
+        "name": "Calpol",
+        "slots": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "durationDays": 3,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-09.png",
+    "date": "2026-10-30",
+    "meds": [
+      {
+        "name": "Thyronorm",
+        "slots": [
+          1,
+          0,
+          0
+        ],
+        "durationDays": 30,
+        "note": "Before food"
+      },
+      {
+        "name": "Ecosprin",
+        "slots": [
+          0,
+          1,
+          0
+        ],
+        "durationDays": 30,
+        "note": "After food"
+      }
+    ]
+  },
+  {
+    "file": "rx-10.png",
+    "date": "2026-10-18",
+    "meds": [
+      {
+        "name": "Ciplox",
+        "slots": [
+          1,
+          0,
+          1
+        ],
+        "durationDays": 5,
+        "note": ""
+      },
+      {
+        "name": "Emeset",
+        "slots": [
+          0.5,
+          0,
+          0.5
+        ],
+        "durationDays": 2,
+        "note": "Before food"
+      },
+      {
+        "name": "Metrogyl",
+        "slots": [
+          1,
+          1,
+          1
+        ],
+        "durationDays": 5,
+        "note": "After food"
+      }
+    ]
+  }
+]
